@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=dahee&fontSize=50)
 
 <h2> You are a very loving person and your life will be filled with romance.🌼</h2>
 
@@ -35,7 +36,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahee0317)](https://solved.ac/dahee0317)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=dahee&fontSize=50)
 
 
 
