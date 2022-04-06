@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **dahee0317/dahee0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +35,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahee0317)](https://solved.ac/dahee0317)
 
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=dahee&fontSize=50)
 
 
 
