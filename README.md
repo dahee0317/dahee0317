@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/dear.with/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-ffffff?style=flat&logo=Instagram&link=https://www.instagram.com/dear.with/"
+        src="http://img.shields.io/badge/-Instagram-373f51?style=flat&logo=Instagram&link=https://www.instagram.com/dear.with/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://velog.io/@dear_with">
     <img 
-        src="http://img.shields.io/badge/-Velog-ffffff?style=flat&logo=Velog&link=https://velog.io/@dear_with"
+        src="http://img.shields.io/badge/-Velog-373f51?style=flat&logo=Velog&link=https://velog.io/@dear_with"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
