@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-//![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Dahee&fontSize=60)
+
 
 <h2> 🌼You are a very loving person and your life will be filled with romance.🌼</h2>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![dahee0317's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahee0317&show_icons=true&theme=material-palenight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee0317&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+![dahee0317's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahee0317&show_icons=true&theme=calm)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee0317&layout=compact&theme=calm&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahee0317)](https://solved.ac/dahee0317)
 
