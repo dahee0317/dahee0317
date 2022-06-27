@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> 🌼Hello Dahee World🌼 </h2>
+<h2> 🌼dahee🌼 </h2>
 
 <span> 💌 dahee_0317@naver.com </span>
 
