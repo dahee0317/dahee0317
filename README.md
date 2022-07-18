@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <span> 💌 dahee_0317@naver.com </span>
 
-![dahee0317's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahee0317&show_icons=true&theme=default) 
+![dahee0317's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahee0317&show_icons=true&theme=vue-dark) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee0317&layout=compact&theme=vue-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahee0317)](https://solved.ac/dahee0317)
